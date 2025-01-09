@@ -1,4 +1,4 @@
-## DEMO: https://idyllic-taffy-4c7973.netlify.app/
+## DEMO: https://videocallingapp.vivektripathi.in/
 ## Frontend Code: https://github.com/vivektrip18/video-calling-frontend
 
 # Video Calling App
